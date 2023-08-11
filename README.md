@@ -11,3 +11,4 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white"/> <img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white"/> <img src="https://img.shields.io/badge/Tor Browser-7D4698?style=flat&logo=torbrowser&logoColor=white"/> 
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-1817172?style=flat&logo=github&logoColor=white"/> 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KIMJOONSIG&show_icons=true&theme=tokyonight)
